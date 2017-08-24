@@ -1,0 +1,5 @@
+access_key = "AKIAJRVMP4EMAIP3C2BA"
+secret_key = "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"
+redshift_master_username = "jcarter"
+redshift_master_password = "v9bS3rcv?)(%^AAAVBn)"
+segment_user_password = "SEGment1!2@3#"
